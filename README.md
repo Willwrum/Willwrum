@@ -1,1 +1,1 @@
-Hello, I'm Will! I'm currently a second-year CS major at Cal Poly. I'm pretty new to a lot of this, but I'm very excited to learn. Being able to code and program at a high-level has been my lifelong dream!
+Hello, I'm Will! I'm currently a third-year CS major at Cal Poly. I'm pretty new to a lot of this, but I'm very excited to learn. Being able to code and program at a high-level has been my lifelong dream!
